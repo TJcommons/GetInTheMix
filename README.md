@@ -2,7 +2,7 @@ GetInTheMix
 ===========
 GetInTheMixInternational: A Social Networking Web Application by Julien Randoulet and Tobias Lovell
 
-(alternative name suggestions welcome - I just came up with something ridiculous to get started...)
+(alternative name suggestions welcome...)
 
 GetInTheMixInternational is a Java web application designed to offer a service whereby people can search for events and activities in their local area. These can be professional or socal events. Users can register on the homepage and fill in a web form with required fields of username, password, email and three interests. Once registered, there is the functionality to search for events by interest category and location and then sign up as an attendee for that event. Registered users are also able to sign up to a group, start a group, or post an event. It is not a requirement for users to start a group in order to hold an event. Other users can sign up to to groups and receive notification about upcoming events and also post comments and other files before, during, and after the event.
 
